@@ -1,0 +1,68 @@
+/* LOGIN CSS STYL */
+
+body
+{
+	color: white;
+	background: #100011;
+}
+
+h1
+{
+	width: 800px;
+	margin: auto;
+	font-family: "Comic Sans MS";
+	font-weight: bold;
+	text-align: center;
+}
+	
+#login
+{
+	border: solid white 2px;
+	background: #222233;
+	width: 800px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	padding-top: 70px;	
+}
+
+#inside
+{
+	color: white;
+	border: solid white 2px;
+	background: #123035;
+	width: 300px;
+	height: 220px;
+	margin: auto;
+	padding-left: 20px;
+	padding-bottom: 10px;	
+}
+
+#name
+{
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 220px;
+}
+
+#passw
+{
+	
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	width: 220px;
+}
+
+#sub
+{
+	width: 140px;
+	display: inline-block;
+	margin-left: 80px;
+	margin-right: auto;
+	margin-top: 20px;
+}

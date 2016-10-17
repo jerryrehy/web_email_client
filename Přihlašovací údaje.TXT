@@ -1,0 +1,9 @@
+Pøihlašovací údaje pro testování apliakce
+
+Uživatelské jméno: test
+Heslo: 123456
+
+Na Gmailu je vytvoøena testovací emailová schránka:
+
+jmeno: testmyjmail@gmail.com
+heslo: jmail123456

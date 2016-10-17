@@ -1,0 +1,1 @@
+INSERT INTO `own_jmail`.`users` (`username`, `password`, `email`, `ename`, `epassw`) VALUES ('test', SHA1('123456'), 'testmyjmail@gmail.com', 'testmyjmail@gmail.com', 'jmail123456');
